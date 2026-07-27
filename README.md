@@ -10,4 +10,8 @@ you're interested, in what to do. Instead of… How… to do.
 
  Earlier before java 7 we used the traditional programming to writing the methods(functions), in java 8 the new concept got introduced that 
  was the lambda expression means -> we don't need to write whole function(not the name of the function not anything just need to write the lambda expression)
+
+
+ <img width="842" height="271" alt="Screenshot 2026-07-27 222719" src="https://github.com/user-attachments/assets/0258a177-6eaf-4a54-9317-174998706ea9" />
+
   
