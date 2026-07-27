@@ -14,4 +14,5 @@ you're interested, in what to do. Instead of… How… to do.
 
  <img width="842" height="271" alt="Screenshot 2026-07-27 222719" src="https://github.com/user-attachments/assets/0258a177-6eaf-4a54-9317-174998706ea9" />
 
-  
+  <img width="1022" height="247" alt="image" src="https://github.com/user-attachments/assets/8627a32f-188a-43b5-ba4f-23feae4906b4" />
+
