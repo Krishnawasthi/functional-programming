@@ -1,5 +1,6 @@
 package com.predicate.functional;
 
+import java.util.Random;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 
@@ -14,6 +15,11 @@ public static void main(String[] args) {
 	
 	Supplier<String> supplier = () -> "Banglore"; 
     System.out.println(supplier.get());
- }
+    
+    //otp generator
+    
+    Supplier<Integer> supplier3 = () -> 100000 + new Random().nextInt(900000);
+    System.out.println("Your otp is : " + supplier3.get());
+  }
 
 }
