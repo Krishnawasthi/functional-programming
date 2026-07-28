@@ -45,3 +45,49 @@ System.out.println(message.get());
 
 <img width="680" height="352" alt="image" src="https://github.com/user-attachments/assets/b9d85ce2-0e0f-41a8-94a1-92debc1ef20a" />
 
+
+# Consumer
+
+
+
+<img width="587" height="127" alt="Screenshot 2026-07-28 220529" src="https://github.com/user-attachments/assets/cf76a6e7-76fd-4e2e-8ec3-55bb0b5309ad" />
+
+
+A **Consumer** is a functional interface introduced in **Java 8** that accepts **one input** and **does not return any value**.
+
+- **Package:** `java.util.function`
+- **Functional Method:** `void accept(T t)`
+
+It is commonly used for printing values, updating objects, or performing operations on data.
+
+## Example
+
+```java
+import java.util.function.Consumer;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Consumer<String> print = name -> System.out.println("Hello " + name);
+
+        print.accept("Krishna");
+    }
+}
+```
+
+**Output**
+```
+Hello Krishna
+```
+
+---
+
+## Summary
+
+| Interface | Input | Output | Purpose |
+|-----------|-------|--------|---------|
+| Consumer | ✔ | ✘ | Performs an operation on the given input |
+
+
+<img width="1537" height="772" alt="image" src="https://github.com/user-attachments/assets/a7539666-908d-4fd3-9254-9e4d58f811a9" />
+
