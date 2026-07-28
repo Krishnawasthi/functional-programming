@@ -1,9 +1,17 @@
 package com.payment.discount;
 
+@FunctionalInterface  //SAM
 interface IDiscount{
  
 	int apply(int amount, int disc);
 
+}
+@FunctionalInterface //SAM 
+interface IShoping extends IDiscount
+{ 
+	
+	int apply(int amount, int disc);
+	//int calc(int amount, int disc);  2 abstract methods so no Functional interface
 }
 
 
