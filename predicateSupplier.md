@@ -42,3 +42,6 @@ System.out.println(message.get());
 |-----------|-------|--------|---------|
 | Predicate | ✔ | `boolean` | Checks a condition |
 | Supplier | ✘ | ✔ | Supplies or generates a value |
+
+<img width="680" height="352" alt="image" src="https://github.com/user-attachments/assets/b9d85ce2-0e0f-41a8-94a1-92debc1ef20a" />
+
