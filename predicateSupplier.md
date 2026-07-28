@@ -88,3 +88,6 @@ Hello Krishna
 |-----------|-------|--------|---------|
 | Consumer | ✔ | ✘ | Performs an operation on the given input |
 
+
+<img width="1537" height="772" alt="image" src="https://github.com/user-attachments/assets/a7539666-908d-4fd3-9254-9e4d58f811a9" />
+
