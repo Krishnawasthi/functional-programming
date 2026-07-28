@@ -89,5 +89,9 @@ Hello Krishna
 | Consumer | ✔ | ✘ | Performs an operation on the given input |
 
 
-<img width="1537" height="772" alt="image" src="https://github.com/user-attachments/assets/a7539666-908d-4fd3-9254-9e4d58f811a9" />
+<img width="1657" height="852" alt="image" src="https://github.com/user-attachments/assets/edee58c4-476f-41ce-8411-d86273c47a1d" />
+
+
+<img width="447" height="26" alt="image" src="https://github.com/user-attachments/assets/ae0c9cf0-bd3a-4107-96a4-f065e21dd5c2" />
+
 
